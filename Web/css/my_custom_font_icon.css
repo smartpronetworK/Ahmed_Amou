@@ -1,0 +1,46 @@
+.fa-E:before {
+    /* font-family: Arial; */
+    font-weight: bold;
+    content: 'E';
+    background-color: white;
+    border-radius: 87%;
+    padding: 7px;
+    color: #337ab7;
+}
+.fa-T:before {
+    /* font-family: Arial; */
+    font-weight: bold;
+    content: 'T';
+    background-color: white;
+    border-radius: 87%;
+    padding: 7px;
+    color: #337ab7;
+}
+.fa-S:before {
+    /* font-family: Arial; */
+    font-weight: bold;
+    content: 'S';
+    background-color: white;
+    border-radius: 87%;
+    padding: 7px;
+    color: #337ab7;
+}
+.fa-J:before {
+     /* font-family: Arial; */
+     font-weight: bold;
+     content: 'J';
+     background-color: white;
+     border-radius: 87%;
+     padding: 7px;
+     color: #337ab7;
+ }
+
+.fa-P:before {
+    /* font-family: Arial; */
+    font-weight: bold;
+    content: 'P';
+    background-color: white;
+    border-radius: 87%;
+    padding: 7px;
+    color: #0e1a35;
+}

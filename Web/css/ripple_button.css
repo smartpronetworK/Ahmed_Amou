@@ -1,0 +1,59 @@
+[ripple] {
+    position: relative;
+    overflow: hidden;
+    -webkit-transition: box-shadow .4s;
+    -moz-transition: box-shadow .4s;
+    -ms-transition: box-shadow .4s;
+    -o-transition: box-shadow .4s;
+    transition: box-shadow .4s;
+    cursor: inherit;
+}
+
+[ripple] .touch {
+    background: rgba(255, 255, 255, 0.3);
+    pointer-events: none;
+    border-radius: 100%;
+}
+button[type="submit"] {
+    position: relative;
+    float: right;
+    font-family: inherit;
+    font-weight: 800;
+    font-size: 21px;
+    border: 0;
+    margin: -9px 0px;
+    padding: 1px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+    background: rgb(60, 94, 181);
+    color: #fff;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
+
+}
+
+button[type="submit"]:focus {
+    outline: none;
+}
+
+.my_btn:focus {
+    outline: none;
+}
+.my_btn:hover,.my_btn:focus {
+    color: #ffffff;
+}
+.my_btn{
+    position: relative;
+    float: right;
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 15px;
+    border: 0;
+    margin: 1px 0px;
+    padding: 5px 15px;
+    border-radius: 3px;
+    cursor: pointer;
+    background: rgb(60, 94, 181);
+    color: #fff;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
+
+}

@@ -1,0 +1,24 @@
+.upload{
+    cursor: pointer;
+    display: block;
+    height: 98%;
+
+    right: 13px;
+    opacity: 0 !important;
+    position: absolute;
+
+    width: 59%;
+    font-size: 4px;
+}
+
+.upfile{
+    cursor: pointer;
+    display: block;
+    height: 98%;
+    left: 2px;
+    opacity: 0 !important;
+    position: absolute;
+    width: 59%;
+    font-size: 4px;
+    top: -6px;
+}
